@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "start": "node server.js",  // Adjust this to your actual server entry point if it's different
+    "build": "npm i& npm start" // Replace with your actual build command, e.g., "webpack" or "react-scripts build"
+  }
+}
